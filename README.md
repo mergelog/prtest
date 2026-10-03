@@ -10,6 +10,7 @@
 
 ```ts
 // dev_1n さらに修正
+// other_1
 {
   const c = 789
 }
